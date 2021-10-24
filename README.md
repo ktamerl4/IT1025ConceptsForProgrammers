@@ -13,7 +13,7 @@ To be completed in the last module of the semester.
 ### Python
 ### Virtualization
 ### Graphics Modeling and Rendering
-### Cloud Computing and Artificial Intelligence
+### Artificial Intelligence
 
 ## Computer Architecture
 ### CPU
