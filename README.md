@@ -20,18 +20,21 @@ To be completed in the last module of the semester.
 ### Gates and Circuits
 ### Memory
 ### Storage
+### Data Representation
+### IEEE
 
 ## Software
+### Operating Systems and File Management
 ### ERP
 ### Python
 ### Virtualization
-### Graphics
-### Diagramming
+### Graphics Modeling and Rendering
+### Cloud Computing and Artificial Intelligence
 
 ## Networking
 ### Data Transmission
 ### Hardware
-### Topologies
+### Topologies and Types of Networks
 ### Protocols
 
 ## Cybersecurity and Encryption
@@ -48,9 +51,16 @@ To be completed in the last module of the semester.
 
 ## Software Development
 ### Algorithms
-### Object - Oriented Concepts
+### Object Oriented Concepts
 
+## Database Systems
+### SQL, NoSQL, and Big Data Technologies
+### Data and Business Decisions
+### The relational model and Normalization
+### SQL Injections
 
+## Legal and Ethical Responsibilities in Computing
+### 
 
 
 
