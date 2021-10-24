@@ -3,11 +3,17 @@
 ## Executive Summary
 To be completed in the last module of the semester.
 
-## GitHub
-
-## Screen Capture
-
 ## Information System Components
+
+## Software
+### GitHub
+### Screen Capture
+### Operating Systems and File Management
+### ERP
+### Python
+### Virtualization
+### Graphics Modeling and Rendering
+### Cloud Computing and Artificial Intelligence
 
 ## Career Exploration
 ### Bureau of Labor Statistics
@@ -22,14 +28,6 @@ To be completed in the last module of the semester.
 ### Storage
 ### Data Representation
 ### IEEE
-
-## Software
-### Operating Systems and File Management
-### ERP
-### Python
-### Virtualization
-### Graphics Modeling and Rendering
-### Cloud Computing and Artificial Intelligence
 
 ## Networking
 ### Data Transmission
