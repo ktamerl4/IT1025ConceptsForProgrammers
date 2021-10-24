@@ -39,7 +39,7 @@ To be completed in the last module of the semester.
 
 ## Cybersecurity and Encryption
 ### Security Triad
-### Ceaser and Polyalphabetic Ciphers
+### Caesar and Polyalphabetic Ciphers
 ### Public and Private Key Encryption
 ### Brute-Force Attacks
 
@@ -66,4 +66,3 @@ To be completed in the last module of the semester.
 
 ## Conclusion
 To be completed in the last module of the semester.
-
