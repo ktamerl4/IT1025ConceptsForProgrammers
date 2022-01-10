@@ -10,8 +10,8 @@ To be completed in the last module of the semester.
 #### Screen Capture
 #### Application, Utility, and Operating Systems
 #### ERP
-#### Python
 #### Virtualization
+#### Python
 #### Graphics Modeling and Rendering
 #### File Compression
 #### Artificial Intelligence
