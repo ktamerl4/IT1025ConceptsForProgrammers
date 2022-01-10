@@ -16,6 +16,12 @@ To be completed in the last module of the semester.
 #### File Compression
 #### Artificial Intelligence
 
+### Career Exploration
+#### Bureau of Labor Statistics
+#### Handshake
+#### Certifications, Certificates, and Degrees
+#### Industry Associations
+
 ### Computer Architecture
 #### CPU
 #### Gates and Circuits
@@ -51,12 +57,6 @@ To be completed in the last module of the semester.
 #### SQL Injections
 
 ### Legal and Ethical Responsibilities in Computing
-
-### Career Exploration
-#### Bureau of Labor Statistics
-#### Handshake
-#### Certifications, Certificates, and Degrees
-#### Industry Associations
 
 ## Conclusion
 To be completed in the last module of the semester.
