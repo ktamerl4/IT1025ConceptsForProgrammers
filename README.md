@@ -8,7 +8,7 @@ To be completed in the last module of the semester.
 ### Software
 #### GitHub
 #### Screen Capture
-#### Operating Systems and File Management
+#### Application, Utility, and Operating Systems
 #### ERP
 #### Python
 #### Virtualization
