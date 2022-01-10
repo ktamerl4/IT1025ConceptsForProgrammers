@@ -12,7 +12,7 @@ To be completed in the last module of the semester.
 #### ERP
 #### Virtualization
 #### Python
-#### Graphics Modeling and Rendering
+#### Graphic Modeling and Rendering
 #### File Compression
 #### Artificial Intelligence
 
