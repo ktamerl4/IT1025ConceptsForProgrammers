@@ -20,7 +20,7 @@ To be completed in the last module of the semester.
 #### Bureau of Labor Statistics
 #### Handshake
 #### Certifications, Certificates, and Degrees
-#### Industry Associations
+#### Industry Associations and Student Organizations
 
 ### Computer Architecture
 #### CPU
