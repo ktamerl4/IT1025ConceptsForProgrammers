@@ -25,10 +25,12 @@ To be completed in the last module of the semester.
 ### Computer Architecture
 #### CPU
 #### Gates and Circuits
-#### Memory
-#### Storage
-#### Data Representation
 #### IEEE
+#### Storage
+##### Latency and Trnasfer Rates
+##### Solid State vs. Traditional Hard Drives
+#### Memory
+#### Data Representation
 
 ### Networking
 #### Data Transmission
