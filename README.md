@@ -13,6 +13,7 @@ To be completed in the last module of the semester.
 #### Python
 #### Virtualization
 #### Graphics Modeling and Rendering
+#### File Compression
 #### Artificial Intelligence
 
 ### Computer Architecture
@@ -38,8 +39,6 @@ To be completed in the last module of the semester.
 ### Internet Programming
 #### Components of a URL
 #### World Wide Web Consortium
-
-### File Compression
 
 ### Software Development
 #### Algorithms
