@@ -52,7 +52,6 @@ To be completed in the last module of the semester.
 ### SQL Injections
 
 ## Legal and Ethical Responsibilities in Computing
-### 
 
 ## Career Exploration
 ### Bureau of Labor Statistics
