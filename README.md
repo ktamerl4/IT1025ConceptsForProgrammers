@@ -3,7 +3,7 @@
 ## Executive Summary
 To be completed in the last module of the semester.
 
-## Information System Components
+### Information System Components
 
 ## Software
 ### GitHub
