@@ -27,7 +27,7 @@ To be completed in the last module of the semester.
 #### Gates and Circuits
 #### IEEE
 #### Storage
-##### Latency and Trnasfer Rates
+##### Latency and Transfer Rates
 ##### Solid State vs. Traditional Hard Drives
 #### Memory
 #### Data Representation
