@@ -29,6 +29,7 @@ To be completed in the last module of the semester.
 #### Storage
 #### Memory
 #### Data Representation
+#### Operating Systems
 
 ### Networking
 #### Data Transmission
